@@ -1,4 +1,4 @@
-Originally Forked from Maker's Academy - Week 5/6 Weekend Challenge
+## Maker's Academy Week 5/6 Weekend Challenge
 
 quick self review:
 
